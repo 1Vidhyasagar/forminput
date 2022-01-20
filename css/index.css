@@ -1,0 +1,18 @@
+/* CSS for INPUT BOX */
+input[type=text] {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-color: cornflowerblue;
+    padding: 5px;
+}
+/* CSS for SUBMIT BUTTON */
+input[type=submit] {
+    background-color: lightgreen;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+}
